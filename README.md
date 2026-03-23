@@ -1,11 +1,10 @@
 # Extra Dose Fix
 
-> A bug fix that ensures the "Extra Dose" boon correctly applies to all intended attacks from the Argent Skull.
+> A bug fix that ensures the "Extra Dose" boon correctly applies to all intended attacks.
 
 ## Features
 
-- Fixes a bug where the "Extra Dose" boon was not applying its effect to the Argent Skull's second punch or its dash-strike.
-- Ensures these attacks receive the intended bonus from the boon.
+- Fixes a bug where the "Extra Dose" boon was not applying its effect to the Black Coat's second punch or its dash-strike.
 
 ## Installation
 
