@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Fixes Extra Dose interaction with Coat 2nd punch and Dash strike.",
     default  = true,
     dataMutation = true,
-    modpackModule = true,
+    modpack = "h2-modpack",
 }
 
 -- =============================================================================
